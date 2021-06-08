@@ -3,7 +3,7 @@
 
 print('Learning Inglish Names ')
 print('-' * 40)
-print('hi  !!! i am a roobot, nice to meet you :) ')
+print('hi  !!! i am a robot, nice to meet you :) ')
 char1 = (input('what is your first name ?'))
 char2 = (input('ok, so  what is your middle name ?'))
 print('Nice :) !!!')
